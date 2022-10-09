@@ -3,12 +3,20 @@ This framework was created for educational purposes only. If you use it for your
 
 ## To do List
   -Adding Features to all empty Tabs
+  
     -Adding Features to the Visuals Tab
+    
     -Adding Features to the Misc Tab
+    
     -Adding Features to the Skins Tab
+    
     -Adding Features to the Player Tab
+    
     -Adding Lua list to the Config Tab
+    
   -Adding Lua Tab if the Menu is bigger
+  
   -Adding DPI Scale
+  
   
  ## Screenshots
