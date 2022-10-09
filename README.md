@@ -17,4 +17,4 @@ This framework was created for educational purposes only. If you use it for your
   
     -Adding DPI Scale
   
- ## Screenshots
+ ## Showcase
