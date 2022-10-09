@@ -1,6 +1,11 @@
 # DISCLAIMER
 This framework was created for educational purposes only. If you use it for your project, you do so at your own risk. I and the contributors are not responsible for any game bans caused by this framework. 
 
+## How to test
+    - Debug | x86
+    - Create a Folder called "gamesense" in Counter-Strike Global Offensive\csgo\cfg
+    - Inject via LoadLibary
+
 ## To do List
   
     -Adding Features to the Visuals Tab
